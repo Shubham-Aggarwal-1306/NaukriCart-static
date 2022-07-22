@@ -55,7 +55,9 @@
 .boxing {
   background-color: white;
   border-radius: 20px;
-  padding: 2.5% 7%;
+  padding: 2.5% 1%;
+  overflow: hidden;
+  text-align: center;
 }
 
 .boxing:hover {
@@ -90,8 +92,8 @@
   font-size: 80px;
 }
 .wrapper .dynamic-txts {
-  height: 90px;
-  line-height: 90px;
+  height: 4.8rem;
+  line-height: 5.4rem;
   overflow: hidden;
 }
 .dynamic-txts li {
