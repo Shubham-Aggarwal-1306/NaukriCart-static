@@ -96,7 +96,7 @@
   line-height: 5.4rem;
   overflow: hidden;
 }
-.dynamic-txts li {
+/* .dynamic-txts li {
   list-style: none;
   color: #198754;
   font-size: 4.5rem;
@@ -104,7 +104,7 @@
   position: relative;
   top: 0;
   animation: slide 3s steps(1) infinite;
-}
+} */
 
 .icon-main {
   padding-top: 2.5%;
