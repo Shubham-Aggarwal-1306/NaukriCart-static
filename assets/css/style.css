@@ -103,7 +103,7 @@
   font-weight: 400;
   position: relative;
   top: 0;
-  animation: slide 12s steps(4) infinite;
+  animation: slide 3s steps(1) infinite;
 }
 
 .icon-main {
