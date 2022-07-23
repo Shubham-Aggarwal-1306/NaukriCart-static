@@ -96,15 +96,15 @@
   line-height: 5.4rem;
   overflow: hidden;
 }
-/* .dynamic-txts li {
+ .dynamic-txts li {
   list-style: none;
   color: #198754;
   font-size: 4.5rem;
   font-weight: 400;
   position: relative;
   top: 0;
-  animation: slide 3s steps(1) infinite;
-} */
+  /* animation: slide 3s steps(1) infinite; */
+}
 
 .icon-main {
   padding-top: 2.5%;
@@ -131,7 +131,7 @@
   margin: 0;
   line-height: 60px;
 }
-.dynamic-txts li span::after {
+/* .dynamic-txts li span::after {
   content: "";
   position: absolute;
   left: 0;
@@ -140,7 +140,7 @@
   background: white;
   border-left: 2px solid #198754;
   animation: typing 3s steps(10) infinite;
-}
+} */
 
 /* selection colummn  */
 
